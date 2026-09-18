@@ -12,3 +12,5 @@ To deliver exceptional hoodies that combine comfort, durability, and distinctive
 -product
 -contact
 -enquiries
+## feedback and corrections from part 1
+ - i added comments on my html file 
